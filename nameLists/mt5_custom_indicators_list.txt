@@ -1,0 +1,2 @@
+mt5_indicator1
+mt5_indicator2
